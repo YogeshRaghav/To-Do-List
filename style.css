@@ -1,0 +1,35 @@
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.main {
+    color: black;
+    font-style: oblique;
+    text-align: center;
+}
+
+.header {
+    text-decoration: underline;
+}
+
+#addBtn {
+    cursor: pointer;
+}
+
+
+.innerDiv2 {
+    margin-top: 14px;
+}
+
+.entry {
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 14px;
+    padding: 10px;
+    width: 70%;
+    margin-left: 215px
+}
+
+
